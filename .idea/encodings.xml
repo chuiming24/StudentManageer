@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/AdminFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DataBase_OP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/FirstFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/RegisterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TeacherFrame.java" charset="GBK" />
+  </component>
+</project>
